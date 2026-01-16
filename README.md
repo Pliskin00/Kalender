@@ -12,13 +12,13 @@ Jeder Tag kann farbige Rechtecke anzeigen — jeweils ein Rechteck pro gespeiche
 
 Heute wird hervorgehoben (andere Hintergrundfarbe + dickerer Rand).
 
-Sonntage (Wochentag-Label und Tagzahl) werden rot dargestellt.
+Sonntage werden rot dargestellt.
 
 Hover-Effekt für Tageszellen und für Zeilen in der Tagesansicht.
 
 Klick auf eine Tageszelle öffnet die Tagesansicht (Liste aller Termine dieses Tages).
 
-Tagesansicht zeigt Termine sortiert nach Zeit, mit Farbfeld, Name, Uhrzeit (oder — bei Feiertag) und optionaler Löschschaltfläche.
+Tagesansicht zeigt Termine sortiert nach Zeit, mit Farbfeld, Name, Uhrzeit (oder "—" bei Feiertag) und optionaler Löschschaltfläche.
 
 Detaildialog für einzelne Termine (Name, Farbe, Datum, Uhrzeit, Beschreibung).
 
